@@ -41,13 +41,13 @@ normally it requires video data streaming protocol (.h264 or .h265). Unfortunate
 ### Theoretical evaluation 
 Theoretical evaluation of the design was done on [flyeval.com](flyeval.com) ( [Introduction to Multicopter Design and Control, Quan Quan 2017](https://link.springer.com/book/10.1007/978-981-10-3382-7) ) and the screenshots below are taken from that website. 
 
-![Components](Diagrams/components.png)
+![Components](Diagrams/components.PNG)
 
 #### Performance of Model
 ![basic-extended-from-flyeval](Diagrams/basic-extended-from-flyeval.png)
 
 #### Mathematical model of design
-![Mathematical model of design](Diagrams/model.png)
+![Mathematical model of design](Diagrams/model.PNG)
 
 
 ### pics from picture
