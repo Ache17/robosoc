@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "4b36140737b24ff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "833e512878802724",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b754b1867af94d69",
+    "type": "split",
+    "children": [
+      {
+        "id": "835d0debfef5cfbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eef9ba2a187b3247",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "494976f5f5b2c3d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d2615e84146f339",
+    "type": "split",
+    "children": [
+      {
+        "id": "b93a44ff571d27d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e887079ddc152fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "833e512878802724",
+  "lastOpenFiles": [
+    "README.md",
+    "Diagrams/basic-extended-from-flyeval.png",
+    "Diagrams/model.PNG",
+    "images/flight-controller.jpg",
+    "Diagrams/system.png",
+    "Diagrams/components.PNG",
+    "().md",
+    "images/Untitled.md"
+  ]
+}
