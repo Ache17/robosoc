@@ -1,4 +1,4 @@
-# robosoc
+# Quala
 
 ### Description
 The goal of the project is to create an open drone that could be used potentially in future for running future project. Some initial idea was to create a drone swarm ( smaller drones "scouters" and larger drones "tankers", [Alex's pitch text needed for that]). Overall we want to have: 
