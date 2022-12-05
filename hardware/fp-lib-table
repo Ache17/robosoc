@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Adafruit ESP32 Feather V2")(type "KiCad")(uri "$(KIPRJMOD)/Adafruit ESP32 Feather V2.pretty")(options "")(descr ""))
+  (lib (name "mod")(type "KiCad")(uri "${KIPRJMOD}/models/mod")(options "")(descr ""))
+  (lib (name "extra_footprints")(type "KiCad")(uri "${KIPRJMOD}/models/mod/extra_footprints.pretty")(options "")(descr ""))
+)

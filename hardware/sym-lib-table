@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "Adafruit ESP32 Feather V2-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit ESP32 Feather V2-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "BMI088")(type "Legacy")(uri "${KIPRJMOD}/models/lib/BMI088.lib")(options "")(descr ""))
+  (lib (name "BMI270")(type "Legacy")(uri "${KIPRJMOD}/models/lib/BMI270.lib")(options "")(descr ""))
+  (lib (name "Raspberry_Pi_Zero_W__v1.3_")(type "Legacy")(uri "${KIPRJMOD}/models/lib/Raspberry_Pi_Zero_W__v1.3_.lib")(options "")(descr ""))
+  (lib (name "IIS2MDCTR")(type "Legacy")(uri "${KIPRJMOD}/models/lib/IIS2MDCTR.lib")(options "")(descr ""))
+  (lib (name "AP62250WU-7")(type "Legacy")(uri "${KIPRJMOD}/models/lib/AP62250WU-7.lib")(options "")(descr ""))
+  (lib (name "DRV8220DSGR")(type "Legacy")(uri "${KIPRJMOD}/models/lib/DRV8220DSGR.lib")(options "")(descr ""))
+  (lib (name "BMP390")(type "Legacy")(uri "${KIPRJMOD}/models/lib/BMP390.lib")(options "")(descr ""))
+)
